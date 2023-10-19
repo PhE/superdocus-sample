@@ -49,11 +49,3 @@ npx bun run preview
 For a detailed explanation of how things work, check out [Docus](https://docus.dev).
 
 
-## changelog
-
-```shell
-# docus
-npx nuxi@latest init superdocus-sample -t themes/docus
-cd superdocus-sample
-npx bun install
-```
